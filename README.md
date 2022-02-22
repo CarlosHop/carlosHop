@@ -18,6 +18,11 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHop&show_icons=true&theme=dracula)](https://github.com/CarlosHop/github-readme-stats) &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHop&langs_count=8=true&theme=dracula)](https://github.com/CarlosHop/github-readme-stats)
+
+  
+  
 </div>
   
   ##
