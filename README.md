@@ -15,10 +15,12 @@
   <img align="center" alt="CarlosHop-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CarlosHop-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CarlosHop-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="CarlosHop-NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="CarlosHop-AdobeXD" height="30" width="40" src="https://icongr.am/simple/adobexd.svg?size=128&color=currentColor&colored=false" />
   <img align="center" alt="CarlosHop-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="CarlosHop-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="CarlosHop-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- 
+  <img align="center" alt="CarlosHop-GitBash" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
 </div>
   
   ##
