@@ -1,6 +1,22 @@
-### System.out.Printf("Prazer sou o Carlos!!")
+<h2> Junior Full-Stack Developer</h2>
+
+System.out.Printf("Welcome I'm Carlos!!")
 
 - 📫 How to reach me: ccarloshos2019@gmail.com
+
+##
+
+- Knowledge and constant evolution of Java and JavaScript
+
+- Markup languages: HTML and CSS, SCSS
+
+- Frameworks: React, React Native, Spring Boot CRUD in Rest API
+
+- Design and prototypes: Figma and Adobe XD
+
+- Certificate: Visual Audio Design
+
+##
 
 <div align="center">
   <a href="https://github.com/carlosHop">
