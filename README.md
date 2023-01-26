@@ -1,6 +1,6 @@
 <h2> Junior Full-Stack Developer</h2>
 
-System.out.Printf("Welcome I'm Carlos!!")
+System.out.Println("Welcome I'm Carlos!!")
 
 - 📫 How to reach me: ccarloshos2019@gmail.com
 
@@ -10,7 +10,9 @@ System.out.Printf("Welcome I'm Carlos!!")
 
 - Markup languages: HTML and CSS, SCSS
 
-- Frameworks: React, React Native, Spring Boot CRUD in Rest API
+- Cloud: AWS Server
+
+- Frameworks: React, React Native, Spring Boot-Rest API
 
 - Design and prototypes: Figma and Adobe XD
 
